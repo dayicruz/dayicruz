@@ -1,4 +1,4 @@
-# ![banner dayana](banner-2.png)
+# ![banner dayana](banner-3.png)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dayana-cruz-gonzalez/)
  # <img src="https://media.giphy.com/media/HQHwvSBSy7s0AXOlWt/giphy.gif" width="150"/> Hey! Bienvenidos a mi GitHub
 
