@@ -1,10 +1,11 @@
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dayana-cruz-gonzalez/)
- # <img src="https://media.giphy.com/media/HQHwvSBSy7s0AXOlWt/giphy.gif" width="150"/> Hey! Bienvenidos a mi GitHub
 # ![banner dayana](banner-3.png)
 
 
 
+<img src="https://media.giphy.com/media/HQHwvSBSy7s0AXOlWt/giphy.gif" width="200"/> 
+ <h1>Hey! Bienvenidos a mi GitHub</h1>
+
+ [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dayana-cruz-gonzalez/)
 
 ###  About me.... <img  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHR0b21vOHk2d2JnbmpjczZkdzB5c2xteHc0dGlxamk1MHh0ZmVnNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NMBl7NxAlPDrOgq6aQ/giphy.gif" width="100"/>
 
