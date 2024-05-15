@@ -9,8 +9,8 @@
 ```
 const dayana = {
 languages: ['Javascript', 'HTML', 'CSS'],
-frameworks: ['React', 'Redux', 'Tailwind'],
-utilities: ['GitHub', 'API-REST', 'Zustand'],
+frameworks: ['React', 'Tailwind'],
+utilities: ['GitHub', 'API-REST', 'Zustand','Redux'],
 softSkills: {
 selfDiscipline: true,
 adaptabilityToChange: true,
