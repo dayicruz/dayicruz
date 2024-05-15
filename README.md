@@ -1,28 +1,28 @@
-![banner dayana](banner.png)
 
  # <img src="https://media.giphy.com/media/HQHwvSBSy7s0AXOlWt/giphy.gif" width="100"/> Hey! Bienvenidos a mi GitHub
+![banner dayana](banner-2.png)
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dayana-cruz-gonzalez/)
 
 
-###  About me
+###  About me.... 
 
 
 
 const dayana = {
-  languages: [Javascript,  HTML, CSS ],
-  frameworks: [React, Redux, Tailwind ],
-  utilities: [GitHub, API-REST, Zustand],
+  languages: ['Javascript', 'HTML', 'CSS'],
+  frameworks: ['React', 'Redux', 'Tailwind'],
+  utilities: ['GitHub', 'API-REST', 'Zustand'],
   softSkills: {
-                        selfDiscipline: True,
-                        adaptabilityToChange: True,
-                        curiosity: True,
-                        continuousLearning: True, 
-              }
- challenge: "continue developing the ability to learn by my own means",
- hobbies: ["Beach"," Dance", "Read", "Fitness" ]
-}
- 
+    selfDiscipline: true,
+    adaptabilityToChange: true,
+    curiosity: true,
+    continuousLearning: true, 
+  },
+  challenge: "continue developing the ability to learn by my own means",
+  hobbies: ["Beach", "Dance", "Read", "Fitness"]
+};
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=dayicruz&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
