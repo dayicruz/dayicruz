@@ -10,21 +10,22 @@
 
 
 
-```javascript
-const dayana = {
-languages: ['Javascript', 'HTML', 'CSS'],
-frameworks: ['React', 'Redux', 'Tailwind'],
-utilities: ['GitHub', 'API-REST', 'Zustand'],
-softSkills: {
-selfDiscipline: true,
-adaptabilityToChange: true,
-curiosity: true,
-continuousLearning: true,
-},
-challenge: "continue developing the ability to learn by my own means",
-hobbies: ["Beach", "Dance", "Read", "Fitness"]
-};
-```
+<div style="background-color: rgba(255, 255, 255, 0.8); padding: 10px; border-radius: 5px;">
+  ```javascript
+  const dayana = {
+    languages: ['Javascript', 'HTML', 'CSS'],
+    frameworks: ['React', 'Redux', 'Tailwind'],
+    utilities: ['GitHub', 'API-REST', 'Zustand'],
+    softSkills: {
+      selfDiscipline: true,
+      adaptabilityToChange: true,
+      curiosity: true,
+      continuousLearning: true, 
+    },
+    challenge: "continue developing the ability to learn by my own means",
+    hobbies: ["Beach", "Dance", "Read", "Fitness"]
+  };
+</div>
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=dayicruz&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
